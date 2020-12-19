@@ -5,7 +5,7 @@
     A simple user/city listing API in NodeJS, Express and TypeORM
 </p>
 
-# RUN
+#### RUN
 
 Steps to run this project:
 
@@ -13,7 +13,7 @@ Steps to run this project:
 2. Run `yarn run start` command to start it
 3. The app will start on `localhost:3000`
 
-## ENDPOINTS
+#### ENDPOINTS
 
 `POST: /city` include a city into the database
 
@@ -48,7 +48,7 @@ Steps to run this project:
 
 `DELETE: /user/id/:id` delete a user by its ID
 
-##Examples
+## Examples
 There is an Insomnia Workspace file ready to be imported on folde insomnia (Insomnia Core 2020.5.2). You may use these examples to make calls to the API
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
