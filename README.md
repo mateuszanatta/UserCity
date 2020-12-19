@@ -9,7 +9,7 @@
 
 Steps to run this project:
 
-1. Clone the repo
+1. Clone the repo `https://github.com/mateuszanatta/UserCity.git`
 2. Run `yarn run start` command to start it
 3. The app will start on `localhost:3000`
 
